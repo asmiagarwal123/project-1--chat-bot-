@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "how are you?",
+      "answer": "I am good!"
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Python is a high-level programming language."
+    },
+    {
+      "question": "How does a for loop work?",
+      "answer": "A for loop iterates over a sequence of elements."
+    },
+    {
+      "question": "Give me name of a country?",
+      "answer": "India"
+    },
+    {
+      "question": "heyy ",
+      "answer": "hi i am a chat bot "
+    },
+    {
+      "question": "who is my dad ",
+      "answer": "ravi "
+    },
+    {
+      "question": "hi",
+      "answer": "hey"
+    },
+    {
+      "question": "mother name ",
+      "answer": "anju "
+    },
+    {
+      "question": "what is my sisters name ",
+      "answer": "aarna agarwal "
+    }
+  ]
+}
